@@ -1,0 +1,2 @@
+# clean_disk_with_diskpart
+clean_disk_with_diskpart
