@@ -1,4 +1,4 @@
-# clean_disk_with_diskpart
+# How to clean a disk with DiskPart
 diskpart<br>
 list disk<br>
 select disk<br>
